@@ -5,3 +5,4 @@
 3. testando agora o rebase
 4. agora é a vez do amend
 5. juntando commits
+6. novo teste
